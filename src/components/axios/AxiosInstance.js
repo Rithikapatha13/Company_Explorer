@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const BaseURl="http://localhost:3000/"
+const BaseURl="https://backend-uq4u.onrender.com/companies"
 
 
 export const AxiosInstanc=axios.create({
